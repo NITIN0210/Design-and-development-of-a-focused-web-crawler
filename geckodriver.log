@@ -1,0 +1,95 @@
+1690576924894	geckodriver	INFO	Listening on 127.0.0.1:61524
+1690576927938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofileqy4B9k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690576928379	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690576928641	Marionette	INFO	Listening on port 61546
+Read port: 61546
+1690576928877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1690576933626	Marionette	INFO	Stopped listening on port 61546
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1690577000487	geckodriver	INFO	Listening on 127.0.0.1:61836
+1690577003560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofile91R6ob"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690577004028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690577004273	Marionette	INFO	Listening on port 61858
+Read port: 61858
+1690577004461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1690577069268	Marionette	INFO	Stopped listening on port 61858
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1690577080491	geckodriver	INFO	Listening on 127.0.0.1:62164
+1690577083575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofile2s7Oln"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690577084055	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690577084327	Marionette	INFO	Listening on port 62186
+Read port: 62186
+1690577084476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1690577143776	Marionette	INFO	Stopped listening on port 62186
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1690577151168	geckodriver	INFO	Listening on 127.0.0.1:62468
+1690577154315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofileBMj2FH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690577154789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690577155006	Marionette	INFO	Listening on port 62490
+Read port: 62490
+1690577155196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1690577189668	geckodriver	INFO	Listening on 127.0.0.1:62659
+1690577192730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofileCVdEF5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690577193082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690577193247	Marionette	INFO	Listening on port 62681
+Read port: 62681
+1690577193444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1690577275761	geckodriver	INFO	Listening on 127.0.0.1:63008
+1690577278827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofileWloxsT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690577279246	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690577279419	Marionette	INFO	Listening on port 63032
+Read port: 63032
+1690577279605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1690577405654	geckodriver	INFO	Listening on 127.0.0.1:63502
+1690577408726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofileLN6i4g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690577409238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690577409312	Marionette	INFO	Listening on port 63524
+Read port: 63524
+1690577409511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1690577502308	geckodriver	INFO	Listening on 127.0.0.1:63887
+1690577505355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nitin\\AppData\\Local\\Temp\\rust_mozprofileHaKL3B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690577505702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690577505775	Marionette	INFO	Listening on port 63909
+Read port: 63909
+1690577505968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
